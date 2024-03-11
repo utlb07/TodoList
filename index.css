@@ -1,0 +1,31 @@
+body{
+
+background-image: linear-gradient(to top, #fbc2eb 0%, #a6c1ee 100%);
+}
+.col-md-5
+{
+    margin-top:150px !important;
+}
+h1{
+    text-align: center;
+    font-weight: bolder;
+    margin: 20px !important;
+}
+button{
+    margin-left: 1Opx !important;
+}
+input{
+    display: inline !important;
+    border:3px solid black !important;
+    width: 80% !important;
+}
+li{
+   list-style-type:none ;
+   font-size: 20px;
+   text-align: center;
+   width: 70%;
+   display: inline;
+}
+i{
+ color: red;
+}
